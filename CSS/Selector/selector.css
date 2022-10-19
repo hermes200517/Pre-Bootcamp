@@ -1,0 +1,14 @@
+h1 {
+    color: rebeccapurple;
+}
+.green {
+    color: mediumseagreen;
+}
+#red {
+    color: tomato;
+    text-align: center;
+}
+.quote p {
+    color: darkslategrey;
+    font-style: italic;
+}

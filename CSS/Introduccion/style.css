@@ -1,0 +1,23 @@
+body{
+
+    background-color: lawngreen;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+
+
+    text-align: center;
+
+}
+p{
+
+    color: blue;
+    font-size: 100px;
+}
+h4 {
+
+    color: black 
+    font-size: 50px;
+}
